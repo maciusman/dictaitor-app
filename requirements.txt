@@ -1,0 +1,10 @@
+# Główne zależności aplikacji DictAItor
+
+customtkinter
+openai-whisper
+Pillow
+requests
+
+# Opcjonalne, ale zalecane (dla obsługi różnych formatów audio i PyAudio)
+pyaudio
+ffmpeg-python
