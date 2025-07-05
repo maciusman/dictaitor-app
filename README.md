@@ -2,7 +2,9 @@
 
 
 
-**DictAItor** to nowoczesna, intuicyjna aplikacja desktopowa, która przekształca mowę na tekst. Nagrywaj notatki głosowe, spotkania czy wykłady i otrzymuj precyzyjne transkrypcje lub tłumaczenia za pomocą jednego kliknięcia. Dzięki wsparciu dla lokalnych modeli AI (Whisper) oraz potężnego API OpenAI, masz pełną kontrolę nad swoimi danymi i jakością wyników.
+**DictAItor** to praktyczna aplikacja desktopowa stworzona po to, by przyspieszyć Twoją pracę. Zamiast pisać długie teksty na klawiaturze, po prostu nagraj swoje myśli, notatki czy treść, a aplikacja zamieni je na tekst.
+
+Dzięki wbudowanym opcjom tłumaczenia, możesz od razu przekształcić swoją mowę na wiele języków, co znacznie zwiększa efektywność. Aplikacja korzysta z technologii Whisper, dostępnej zarówno lokalnie (offline), jak i przez API OpenAI, dając Ci wybór między prywatnością a maksymalną dokładnością.
 
 ---
 
